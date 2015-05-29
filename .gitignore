@@ -1,0 +1,18 @@
+### OSX template
+.DS_Store
+
+### Sass template
+.sass-cache
+*.css.map
+
+### IntelliJ project files
+.idea
+.sass-cache
+
+### Modules
+node_modules
+bower_components
+
+### Build and Coverage
+build
+coverage
